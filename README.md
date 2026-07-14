@@ -8,20 +8,6 @@ A modern and responsive Weather Application built using **React**, **TypeScript*
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-<!-- Add screenshot here -->
-![Home](./screenshots/home.png)
-
-### Weather Details
-
-<!-- Add screenshot here -->
-![Weather](./screenshots/weather.png)
-
----
-
 ## ✨ Features
 
 - 🔍 Search weather by city
@@ -162,18 +148,6 @@ While building this project, I learned:
 - Local Storage
 - Dynamic UI rendering
 - Responsive design
-
----
-
-## 🔮 Future Improvements
-
-- 🌙 Dark Mode
-- 🌡️ Temperature Unit Toggle (°C / °F)
-- 🌬️ Air Quality Index (AQI)
-- ☀️ UV Index
-- ✨ Smooth animations
-- 📊 Hourly Forecast
-- 🎨 Improved UI/UX
 
 ---
 
